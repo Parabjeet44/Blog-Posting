@@ -1,0 +1,32 @@
+.toggleButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.toggleIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.menuContainer {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.menuButton {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
